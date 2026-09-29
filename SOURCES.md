@@ -38,3 +38,18 @@ Interaction-Stiffness-Guided Basis Allocation in Dynamic Movement Primitives for
 - 页面主内容只保留 Research Works；Accepted 作为其中独立分组，保留原接收日期、DOI、PDF 与版权声明。
 - SC-DMPs 缩略图来自作者指定原始 PDF 第 4 页 Fig. 1（已发布 PDF 对应第 5 页），仅裁去页眉、图注及外围正文，保留完整图内内容。
 - 主题标签依据已有论文标题分类，仅用于列表筛选，不构成新增研究成果或评奖信息。
+
+## 其余论文配图
+
+作者授权从其论文整理目录中的对应 PDF 提取以下原图。按首页题名和作者核对后，以图中实际边界裁切为 PNG，保留完整图内内容和原始比例。
+
+| 主页论文 | 原 PDF 页码及图号 | 站点图片 |
+| --- | --- | --- |
+| Extreme Value Theory-Driven Robust Feature Selection With Application to Estimation of Interaction Stiffness | 第 4 页 Fig. 1，NF-MRMR 总览 | `assets/evt-feature-selection.png` |
+| Learning Neural Autonomous Dynamical Systems From Few Demonstrations | 第 4 页 Fig. 1，few-shot NADS 框架 | `assets/neural-ds-overview.png` |
+| Geometric Regularization for Robust Learning of Neural Autonomous Dynamical Systems From Demonstrations | 第 4 页（印刷页 11843）Fig. 2，GR-NADS 方法总览 | `assets/geometric-ds-overview.png` |
+| sEMG-Only Interaction Stiffness Estimation for Contact-Rich Human-Robot Collaboration | 第 4 页 Fig. 1，实验平台与任务示意 | `assets/semg-stiffness-overview.png` |
+| Robust Feature Selection by Removing Noise Entropy Within Mutual Information for Limited-Sample Industrial Data | 第 3 页（印刷页 3915）Fig. 1，MNFR-MR 框架 | `assets/noise-entropy-selection.png` |
+| An Upper-Limb Endpoint Stiffness Estimation Method for High-Load Tasks | 第 2 页 Fig. 1，方法框架 | `assets/upper-limb-stiffness.png` |
+
+本次更新仅增加现有论文的配图，原 PDF 保留在作者本机；主页原有论文信息、接收稿下载地址和版权声明沿用既有记录。
