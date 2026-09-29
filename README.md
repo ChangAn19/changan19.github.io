@@ -22,8 +22,10 @@ build system, external fonts, or paid service is required.
 
 ## 作者接收稿
 
-目前仅展示公开论文信息与 DOI，没有上传论文 PDF。日后添加接收稿前，请按每篇
-论文的出版协议确认版本与分享权利，在 PDF 首页及网页条目加入相应版权声明、
-完整引文与 DOI。不要将非开放获取论文的出版商排版版或校样当作接收稿上传。
+主页单独列出 Accepted / 已接收论文，并显示接收日期、DOI 和作者接收稿下载。
+PDF 与 index.html 一起上传到仓库根目录，链接与文件名必须对应。
+添加接收稿前，请按每篇论文的出版协议确认版本与分享权利，在 PDF 首页及网页
+条目加入相应版权声明、完整引文与 DOI。不要将非开放获取论文的出版商排版版
+或校样当作接收稿上传。
 
 IEEE policy: https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/
