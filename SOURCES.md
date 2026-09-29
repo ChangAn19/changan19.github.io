@@ -31,3 +31,10 @@ Interaction-Stiffness-Guided Basis Allocation in Dynamic Movement Primitives for
 - [IEEE 发表后分享政策](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/)
 - [GitHub Pages 创建指引](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 - [GitHub Pages 自定义工作流](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
+
+## Research Works 版式更新
+
+- 按作者指定的 [Chang Xu 主页](https://chang-xu.github.io/) 参考简洁白底、青色强调和横向论文列表，独立实现样式和筛选功能；没有复制该站的个人资料、照片、论文图片或代码。
+- 页面主内容只保留 Research Works；Accepted 作为其中独立分组，保留原接收日期、DOI、PDF 与版权声明。
+- SC-DMPs 缩略图来自作者指定原始 PDF 第 4 页 Fig. 1（已发布 PDF 对应第 5 页），仅裁去页眉、图注及外围正文，保留完整图内内容。
+- 主题标签依据已有论文标题分类，仅用于列表筛选，不构成新增研究成果或评奖信息。

@@ -6,6 +6,9 @@ This repository contains the published static homepage. GitHub Pages serves the
 `main` branch from `/(root)`. The page includes its own CSS and JavaScript, so no
 build system, external fonts, or paid service is required.
 
+The homepage focuses on Research Works, with publication thumbnails, year groups,
+topic and first-author filters, English/Chinese switching, and PDF downloads.
+
 ## 更新主页
 
 - `index.html`：已发布主页，可以直接编辑文字。
